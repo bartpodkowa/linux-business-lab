@@ -71,7 +71,6 @@ sudo ./setup_lab.sh
 
 ## Purpose of This Project
 
-This lab is designed as a hands-on learning exercise to demonstrate confidence with Linux system administration and automation.  
-It is suitable for portfolios for IT Support, Junior SysAdmin, and Cybersecurity roles.
+This project was created as a practical way to develop and demonstrate core Linux skills, including user and group management, permissions, and basic automation with Bash.
 
-
+It provides a simple but realistic scenario that mirrors how departments and access control might be structured on an actual system.
